@@ -1,4 +1,4 @@
-package com.alfatto.task1_junior;
+package alfatto_task1_junior;
 
 public class Main {
     public static void main(String[] args) {
